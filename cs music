@@ -1,0 +1,174 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	Effect.Water = 
+    {
+        type = "csgo_mega"
+        volume = 1.000000
+		pitch = 1.000000
+        use_distance_volume_mapping_curve = false
+		position_relative_to_player = true
+		mixgroup = "World"
+        vsnd_files_track_01 = "sounds/arcana/water.vsnd"
+    }
+	Effect.Trigger = 
+    {
+        type = "csgo_mega"
+        volume = 1.000000
+		pitch = 1.000000
+        use_distance_volume_mapping_curve = false
+		position_relative_to_player = true
+		mixgroup = "World"
+        vsnd_files_track_01 = "sounds/arcana/trigger_snd.vsnd"
+    }
+	Effect.Push = 
+    {
+        type = "csgo_mega"
+        volume = 1.000000
+		pitch = 1.000000
+        use_distance_volume_mapping_curve = false
+		position_relative_to_player = true
+		mixgroup = "World"
+        vsnd_files_track_01 = "sounds/arcana/push.vsnd"
+    }
+	Effect.Heal = 
+    {
+        type = "csgo_mega"
+        volume = 1.000000
+		pitch = 1.000000
+        use_distance_volume_mapping_curve = false
+		position_relative_to_player = true
+		mixgroup = "World"
+        vsnd_files_track_01 = "sounds/arcana/heal.vsnd"
+    }
+	Effect.Gravity = 
+    {
+        type = "csgo_mega"
+        volume = 1.000000
+		pitch = 1.000000
+        use_distance_volume_mapping_curve = false
+		position_relative_to_player = true
+		mixgroup = "World"
+        vsnd_files_track_01 = "sounds/arcana/gravity.vsnd"
+    }
+	Effect.Barrier = 
+    {
+        type = "csgo_mega"
+        volume = 1.000000
+		pitch = 1.000000
+        use_distance_volume_mapping_curve = false
+		position_relative_to_player = true
+		mixgroup = "World"
+        vsnd_files_track_01 = "sounds/arcana/barrier.vsnd"
+    }
+	Effect.Win = 
+    {
+        type = "csgo_mega"
+        volume = 1.000000
+		pitch = 1.000000
+        use_distance_volume_mapping_curve = false
+		position_relative_to_player = true
+		mixgroup = "World"
+        vsnd_files_track_01 = "sounds/arcana/track_pure.vsnd"
+    }
+	Effect.Fail = 
+    {
+        type = "csgo_mega"
+        volume = 1.000000
+		pitch = 1.000000
+        use_distance_volume_mapping_curve = false
+		position_relative_to_player = true
+		mixgroup = "World"
+        vsnd_files_track_01 = "sounds/arcana/track_fail.vsnd"
+    }
+	music.s1_bgm_1 = 
+    {
+        type = "csgo_music"
+        volume = 1.000000
+        volume_convar = "snd_musicvolume"
+        vsnd_files = "sounds/music/orion.vsnd"
+    }
+	music.s1_bgm_2 = 
+    {
+        type = "csgo_music"
+        volume = 1.000000
+        volume_convar = "snd_musicvolume"
+        vsnd_files = "sounds/music/flamme-bleue.vsnd"
+    }
+	music.s2_bgm_1 = 
+    {
+        type = "csgo_music"
+        volume = 1.000000
+        volume_convar = "snd_musicvolume"
+        vsnd_files = "sounds/music/artifiction.vsnd"
+    }
+	music.s2_bgm_2 = 
+    {
+        type = "csgo_music"
+        volume = 1.000000
+        volume_convar = "snd_musicvolume"
+        vsnd_files = "sounds/music/testify.vsnd"
+    }
+	music.s2_bgm_3 = 
+    {
+        type = "csgo_music"
+        volume = 1.000000
+        volume_convar = "snd_musicvolume"
+        vsnd_files = "sounds/music/the-girl.vsnd"
+    }
+	music.s3_bgm_1 = 
+    {
+        type = "csgo_music"
+        volume = 1.000000
+        volume_convar = "snd_musicvolume"
+        vsnd_files = "sounds/music/chronicle.vsnd"
+    }
+	music.s3_bgm_2 = 
+    {
+        type = "csgo_music"
+        volume = 1.000000
+        volume_convar = "snd_musicvolume"
+        vsnd_files = "sounds/music/paradigm-shift.vsnd"
+    }
+	music.s3_bgm_3 = 
+    {
+        type = "csgo_music"
+        volume = 1.000000
+        volume_convar = "snd_musicvolume"
+        vsnd_files = "sounds/music/leviathan.vsnd"
+    }
+	music.s4_bgm_1 = 
+    {
+        type = "csgo_music"
+        volume = 1.000000
+        volume_convar = "snd_musicvolume"
+        vsnd_files = "sounds/music/arcaea_team-epilogue.vsnd"
+    }
+	music.s4_bgm_2 = 
+    {
+        type = "csgo_music"
+        volume = 1.000000
+        volume_convar = "snd_musicvolume"
+        vsnd_files = "sounds/music/sillyneko_embers.vsnd"
+    }
+	music.s4_bgm_3 = 
+    {
+        type = "csgo_music"
+        volume = 1.000000
+        volume_convar = "snd_musicvolume"
+        vsnd_files = "sounds/music/arcaea_team-sakura_fubuki.vsnd"
+    }
+	music.rtv_bgm_1 = 
+    {
+        type = "csgo_music"
+        volume = 1.000000
+        volume_convar = "snd_musicvolume"
+        vsnd_files = "sounds/music/astrum.vsnd"
+    }
+	music.rtv_bgm_2 = 
+    {
+        type = "csgo_music"
+        volume = 1.000000
+        volume_convar = "snd_musicvolume"
+        vsnd_files = "sounds/music/Lily_Morrigan-Genesis.vsnd"
+    }
+}
