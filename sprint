@@ -1,0 +1,1 @@
+thisEntity:SetVelocity(Vector(math.cos(thisEntity:GetAngles().y*math.pi/180)*1500,math.sin(thisEntity:GetAngles().y*math.pi/180)*1500,thisEntity:GetVelocity().z))
